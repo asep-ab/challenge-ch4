@@ -123,6 +123,9 @@ body {
     cursor: pointer;
     background-color: violet;
 }
+.choice1:hover {
+    cursor: not-allowed;
+}
 
 .btn-paper {
     padding-top: 3em;
